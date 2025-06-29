@@ -1,0 +1,36 @@
+body {
+}
+header {
+  height: 116px;
+  background-color: #0869fb;
+  margin: 0 auto;
+  padding-right: 100px;
+  padding-left: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.logo {
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  color: #ffffff;
+  display: flex;
+  align-items: center;
+  gap: 2px;
+}
+ul {
+  display: flex;
+  align-items: center;
+  gap: 52px;
+  list-style: none;
+}
+ul a {
+  text-decoration: none;
+  color: #ffffff;
+  font-family: "Poppins", sans-serif;
+}
+button {
+  width: 137px;
+  height: 37px;
+}
